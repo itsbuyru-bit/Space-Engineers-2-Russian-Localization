@@ -225,6 +225,6 @@
   "YawPitchAnalog": "Flight Look Analog",
   "YawPitchDigital": "Flight Look Digital",
   "PartialGridCopyToggle": "Activate Partial Copy Mode",
-  "ReloadGunTool": "Reload",
+  "ReloadGunTool": "Перезарядка",
   "MapZoomChange": "Увеличьте масштаб, чтобы увидеть пути пересечения"
 }

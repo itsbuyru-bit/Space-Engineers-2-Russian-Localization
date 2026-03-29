@@ -14,6 +14,6 @@
   "TradeScreenPricePerUnit": "Цена за единицу",
   "TradeScreenTotalCost": "Общая стоимость",
   "TradeScreenTotalProfit": "Общая прибыль",
-  "ItemCantFit": "Выбранное количество не может поместиться в целевой запас.",
+  "ItemCantFit": "Выбранное количество не может поместиться в целеве хранилище.",
   "TradeTransferPlayerBalance": "Баланс игрока"
 }
