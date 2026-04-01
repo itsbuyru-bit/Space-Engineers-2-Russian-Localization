@@ -848,5 +848,6 @@
   "TerminalScreenHingeDirectControlVelocity": "Контроль скорости",
   "TerminalScreenHingeVerticalOffset": "Перемещение",
   "ValidationInvalidInput": "Неверный ввод",
-  "ValidationInvalidRange": "Значение должно быть между {Min} и {Max}"
+  "ValidationInvalidRange": "Значение должно быть между {Min} и {Max}",
+  "Enabled": "Включено"
 }

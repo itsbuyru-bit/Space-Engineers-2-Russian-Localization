@@ -95,6 +95,7 @@
   "DialogBlueprintNotFoundContent": "Не удалось найти чертеж.",
   "DialogBlueprintLoadingFailedTitle": "Не удалось загрузить чертеж",
   "DialogBlueprintLoadingFailedContent": "Не удалось загрузить сетку из чертежа.",
+  "DialogBlueprintLoadingFailedMaxPCUContent": "Этот чертеж превышает максимальное значение PCU для этого мира. Разместить его невозможно.",
   "DialogBlueprintScreenshotSavingFailedTitle": "Не удалось сохранить снимок экрана",
   "DialogBlueprintScreenshotSavingFailedContent": "Не удалось сохранить снимок экрана в blueprint. Подробности смотрите в журнале.",
   "LoadBackupWithoutSavingTitle": "Загружайте резервную копию Без сохранения",
@@ -176,5 +177,7 @@
   "ControlPanelEditActionsDialogDescription": "* Перетащите блок из списка терминалов, чтобы добавить его в нужное место на панели инструментов\n* Чтобы отредактировать существующее действие, щелкните левой кнопкой мыши на плитке, содержащей это действие\n* Чтобы удалить существующее действие, щелкните правой кнопкой мыши\n* Нажмите кнопку редактировать действие еще раз, чтобы завершить редактирование",
   "DeleteMarkersDialogTitle": "Удалить маркеры",
   "DeleteMarkersDialogContent": "Вы уверены, что хотите удалить эти маркеры?",
-  "NumericInputDialogHeader": "Значение, которое нужно установить"
+  "NumericInputDialogHeader": "Значение, которое нужно установить",
+  "DisplaySettingsChangeFailedTitle": "Не удалось применить настройки",
+  "DisplaySettingsChangeFailedContent": "{OverlayName} не позволяет игре применить изменения в настройках отображения. Пожалуйста, попробуйте еще раз или отключите оверлей."
 }
