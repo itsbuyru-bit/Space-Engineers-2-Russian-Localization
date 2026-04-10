@@ -8,7 +8,7 @@
   "KillMessageAccident": "Вы погибли в результате несчастного случая.",
   "KillMessageRadiation": "Вы отравились радиоактивным газом.",
   "KillMessageRespawn": "Вы запросили ручное возрождение.",
-  "KillMessageHibernation": "Вы погибли в криокамере при её разрушении.",
+  "KillMessageHibernation": "Вы погибли в криокамере при ее разрушении.",
   "KillMessageTimeout": "С возвращением.",
   "RespawnPendingText": "Возрождение...",
   "DeathFanFareTitle": "{DeathReason}",
