@@ -15,7 +15,7 @@
   "AutomationCategoryTooltip": "Блоки для автоматизации и управления операциями структур",
   "CommunicationCategoryName": "Связь",
   "CommunicationCategoryTooltip": "Блоки для удалённой связи и передачи местоположения",
-  "EntrancesCategoryName": "Входы",
+  "EntrancesCategoryName": "Панели ввода",
   "EntrancesCategoryTooltip": "Блоки, обеспечивающие точки доступа к вашей структуре",
   "IlluminationCategoryName": "Освещение",
   "IlluminationCategoryTooltip": "Блоки, обеспечивающие освещение вашей структуры",

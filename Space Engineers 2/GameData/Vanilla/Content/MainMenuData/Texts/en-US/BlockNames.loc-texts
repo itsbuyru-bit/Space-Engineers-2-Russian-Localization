@@ -242,7 +242,7 @@
   "FabricatorProgression": "Тех. уровень производителя. Блоки: {-1}",
   "TestBlock": "Тестовый блок",
   "ContractsBlock": "Блок контрактов",
-  "Barrel": "Бочка",
+  "Barrel": "Контейнер",
   "ContractTerminal": "Терминал контрактов",
   "AssemblerProgressionConcise": "Сборщик",
   "SmelterProgressionConcise": "Плавильня",

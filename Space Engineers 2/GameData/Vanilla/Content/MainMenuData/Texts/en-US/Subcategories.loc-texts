@@ -21,7 +21,7 @@
   "WindowsSubcategoryTooltip": "Прозрачные блоки различной формы для создания окон",
   "DetailingSubcategoryName": "Детализация",
   "DetailingSubcategoryTooltip": "Малые блоки для добавления сложных деталей к структурам",
-  "InputsSubcategoryName": "Входы",
+  "InputsSubcategoryName": "Панели ввода",
   "InputsSubcategoryTooltip": "Блоки, генерирующие входные сигналы для других блоков",
   "AntennasSubcategoryName": "Антенны",
   "AntennasSubcategoryTooltip": "Блоки, обеспечивающие дальнюю связь и удалённое управление структурами",
